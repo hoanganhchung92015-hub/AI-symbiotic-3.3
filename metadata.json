@@ -1,0 +1,8 @@
+{
+  "name": "AI Symbiotic 3.3",
+  "description": "Một nền tảng học tập thông minh tích hợp đa AI (Socratic, NotebookLM, Perplexity) dành cho các môn Toán, GDKTPL và Lịch sử, hỗ trợ nhập liệu bằng hình ảnh và giọng nói.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
